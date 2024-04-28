@@ -8,8 +8,8 @@
 3. Puravasu Jaideep Sesha (21f1000162)
 4. Trivikram Umanath (21f1005359)
 
+Folder Structure 
 
-Folder Structure
 ├── Team 6
 │   ├── DataVisors.pptx
 │   ├── Final.pbix
@@ -17,3 +17,5 @@ Folder Structure
 │   ├── Product_Recommendation.ipynb
 │   ├── Technical_Appendix_Team6_DataVisors.ipynb
 ├──Readme.md
+
+
